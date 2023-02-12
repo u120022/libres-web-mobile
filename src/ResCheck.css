@@ -1,0 +1,129 @@
+/*予約の確認*/
+.resTitle {
+    /*~図書館で予約しますか?*/
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+    white-space: normal;
+}
+
+.libDetailURL {
+    /*~図書館の詳細ページを表示*/
+    margin-top: 5%;
+    width: 65%;
+    margin-left: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #0595A9;
+}
+
+.bookListBookImage2 {
+    /*とある本の画像*/
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 40%;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+
+  .bookListBookTitle2 {
+    /*とある本のタイトル*/
+    margin-top: 16px;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: auto;
+    color: #000000;
+    white-space: normal;
+  }
+
+  .bookListBookAuther2 {
+    /*とある本の著者*/
+    font-family: 'Noto Sans JP';
+    text-align: center;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 1rem;
+    line-height: auto;
+    color: #717171;
+  }
+
+
+  .button004{
+    margin-top:20% ;
+    background: #eee;
+    border-radius: 50px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    max-width: 260px;
+    padding: 10px 25px;
+    color: #313131;
+    font-weight: 500;
+}
+
+.textLibKakunin {
+    /*予約する(要修正)*/
+    position: relative;
+    width: 64px;
+    height: 24px;
+    left: 170px;
+    top: 673px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #161A3A;
+}
+
+.resTitle2 {
+    /*~図書館で予約しますか?*/
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+    white-space: normal;
+}
+
+.resTitle3 {
+    /*~図書館で予約しますか?*/
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 50%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+    white-space: normal;
+}

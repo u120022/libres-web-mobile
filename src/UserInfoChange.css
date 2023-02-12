@@ -1,0 +1,55 @@
+/*"ユーザ情報を変更する"はUserInfo.cssのuserNameと同じ*/
+
+/*表はbootstrapのコンポーネントを使う
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+    </tr>
+  </tbody>
+</table>
+*/
+
+.changeFinButton {
+    /*変更を完了するボタン*/
+    position: absolute;
+    width: 200px;
+    height: 54px;
+    left: 95px;
+    top: 497px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.changeFinText {
+    /*変更を完了する*/
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 168px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #363636;
+}

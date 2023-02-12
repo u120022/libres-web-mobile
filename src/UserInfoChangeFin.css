@@ -1,0 +1,35 @@
+.UserInfoChangeFin {
+    position: absolute;
+    left: 0px;
+    top: 275px;
+}
+
+.homebackButton {
+    /*ホームに戻るボタン*/
+    position: absolute;
+    width: 128px;
+    height: 48px;
+    left: 131px;
+    top: 391px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.homebackText {
+    /*ホームに戻る*/
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 168px;
+    height: 29px;
+
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    
+    color: #000000;
+}

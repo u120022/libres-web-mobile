@@ -1,0 +1,124 @@
+/*図書館の詳細*/
+.libName {
+    /*図書館の名前*/
+    text-align: center;
+    width: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.libImage {
+    /*図書館の画像*/
+    margin: auto;
+    display: block;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+
+.libFrame {
+    width:95%;
+    margin-top: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    flex-flow: column;
+    border: 1px solid #000000;
+    background: #F3F2F2;
+    border-radius: 10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.libFrameAddresTitle {
+    margin-top: 5%;
+    width:auto;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: auto;
+    color: #757575;
+}
+
+.libFrameAddres {
+    width:auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    border-bottom: #A7A0A0;
+}
+
+.libFrameAddresIcon {
+    /*addres.png*/
+    margin-left: auto;
+}
+
+.libFrameTelNumberTitle {
+    width:auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: auto;
+    color: #A7A0A0;
+}
+
+.libFrameTelNumber {
+    width:auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    border-bottom: #A7A0A0;
+}
+
+.libFrameTelNumberIcon{
+    /*telephone.png*/
+    width: 100%;   
+}
+
+.libFrameHomepageTitle {
+    width:auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: auto;
+    color: #A7A0A0;
+}
+
+.libFrameHomepage {
+    position: relative;
+    top: 75%;
+    left: 0%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.libFrameTelNumberIcon{
+    /*link.png*/
+    position: relative;
+    top: 75%;
+    left: 90%;
+    width: 40px;
+    height: 40px;   
+}

@@ -1,0 +1,113 @@
+.bookImageDetail {
+    /*本の画像*/
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 15%;
+    border-radius: 5px;
+    object-fit: cover;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.bookName {
+    /*本の名前*/
+    margin-top: 5%;
+    text-align: center;
+    width: auto;
+    font-size: 5vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    line-height: auto;
+    color: #000000;
+    white-space: normal;
+}
+
+.auther {
+    /*著者名*/
+    text-align: center;
+    width: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: auto;
+    color: #000000;
+}
+
+.publishedTitle {
+    /*出版社/出版年*/
+    text-align: center;
+    width:auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 5vw;
+    line-height: auto;
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+.published {
+    /*出版社/年/月/日*/
+    text-align: center;
+    width: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5vw;
+    line-height: auto;
+    color: #000000;
+    margin-bottom: 10%;
+}
+
+.buttonResLib {
+    /*予約する図書館を選ぶボタン,予約するボタン*/
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #F9D8C0;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+.bookmarkIcon {
+    top:30%;
+    margin-right: 0;
+    margin-left:auto;
+}
+
+.button003 {
+    background: #eee;
+    border-radius: 50px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 260px;
+    padding: 10px 25px;
+    color: #313131;
+    transition: 0.3s ease-in-out;
+    font-weight: 500;
+}
+
+.button003{
+    background: #eee;
+    border-radius: 50px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 260px;
+    padding: 10px 25px;
+    color: #313131;
+    transition: 0.3s ease-in-out;
+    font-weight: 500;
+}

@@ -1,0 +1,148 @@
+.userName {
+    width: 150px;
+    height: 44px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.createAccount2{
+    margin-top: 10%;
+    width: auto;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    border-radius: 10px;
+
+    color: #000000;
+}
+
+.barcode {
+    /*バーコード的な.png*/
+    box-sizing: border-box;
+    position: absolute;
+    width: 243px;
+    height: 155px;
+    left: 73px;
+    top: 202px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.resHistory {
+    /*貸出履歴*/
+    position: absolute;
+    width: 128px;
+    height: 54px;
+    left: 32px;
+    top: 419px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.resHistoryText {
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 96px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #363636;
+}
+
+.resList {
+    /*予約一覧*/
+    position: absolute;
+    width: 128px;
+    height: 54px;
+    left: 229px;
+    top: 419px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.resListText{
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 96px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #363636;
+}
+
+.bookmarkButton{
+    /*ブックマーク*/
+    position: absolute;
+width: 176px;
+height: 54px;
+left: 14px;
+top: 520px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 8px;
+}
+
+.bookmarkButtonText{
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 96px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #363636;
+}
+
+.userInfoChange{  /*ユーザ情報を変更する*/
+    position: absolute;
+width: 152px;
+height: 73px;
+left: 223px;
+top: 510px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 8px;
+}
+
+.userInfoChangeText{
+    position: relative;
+    top: 12.5px;
+    left: 16px;
+    width: 96px;
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #363636;
+}

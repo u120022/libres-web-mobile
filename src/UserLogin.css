@@ -1,0 +1,115 @@
+.textLogin {
+    /*ログイン*/
+    text-align: center;
+    width: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: auto;
+    color: #000000;
+}
+
+.MailFormErrorText {
+    /*ErrorMessage.png*/
+    position: absolute;
+    left: 48px;
+    top: 254px;
+}
+
+.MailFormErrorBox {
+    /*メールアドレス入力エラー*/
+    position: absolute;
+    width: 293px;
+    height: 22px;
+
+    background: #FFFFFF;
+    border: 1px solid #FF0000;
+}
+
+.passwordFormName {
+    /*パスワード.png*/
+    display: block;
+    margin-left: 10%;
+    width: auto;
+    margin-bottom: 5%;
+}
+
+.passwordFormBox {
+    /*パスワード入力フォーム*/
+    position: absolute;
+    width: 293px;
+    height: 22px;
+    left: 48px;
+    top: 345px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.passwordFormErrorText {
+    /*ErrorMessage2.png*/
+    position: absolute;
+    left: 48px;
+    top: 328px;
+}
+
+.passwordFormErrorBox {
+    /*パスワード入力エラー*/
+    position: absolute;
+    width: 293px;
+    height: 22px;
+    left: 48px;
+    top: 345px;
+
+    background: #FFFFFF;
+    border: 1px solid #FF0000;
+}
+
+.LoginButton {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    display: flex;
+}
+
+.LoginText {
+    /*ログイン*/
+    width: auto;
+    text-align: center;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: auto;
+
+    color: #000000;
+}
+
+.LoginIcon {
+    /*Login.png*/
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+.createAccount {
+    /*アカウントを作成する→*/
+    margin-top: 10%;
+    width: auto;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}

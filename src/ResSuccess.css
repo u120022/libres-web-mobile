@@ -1,0 +1,28 @@
+
+/*予約成功*/
+/*"~図書館でこの本を予約しました"は"予約の確認"のresTitleと同じ*/
+.bookTitle{
+    position: relative;
+  width: 90%;
+  top:40%;
+  margin:auto;
+  white-space: normal;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+  }
+  
+  .buttonbooks{  /*booksに戻る*/
+    position: relative;
+  width: 50%;
+  height: 53px;
+  top:65%;
+  margin: auto;
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  }
